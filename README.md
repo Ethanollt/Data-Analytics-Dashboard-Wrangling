@@ -67,7 +67,13 @@ The project uses a dataset containing **500,000+ records**.
 ```text
 ├── README.md
 ├── data_analysis.ipynb
-└── tableau_dashboard.png
+└── Tableau_chart_1.png
+└── Tableau_chart_2.png
+└── Tableau_chart_3.png
+└── Tableau_chart_4.png
+└── Tableau_chart_5.png
+└── Tableau_chart_6.png
+└── Tableau_chart_7.png
 ```
 
 ## Key Skills Demonstrated
