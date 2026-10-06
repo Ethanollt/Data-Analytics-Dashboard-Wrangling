@@ -103,4 +103,4 @@ Potential improvements include:
 
 ## Author
 Ethan Tai
-ethantai@me.com
+https://github.com/Ethanollt
